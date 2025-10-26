@@ -4,8 +4,5 @@ numpy
 pandas
 scikit-learn
 joblib
-Werkzeu
-itsdangerous
-Jinja2
 
 
