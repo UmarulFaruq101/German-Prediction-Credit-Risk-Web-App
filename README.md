@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # German-Prediction-Credit-Risk-Web-App# 💳 German Credit Prediction System
 ## End-to-End Supervised Learning & Flask Deployment
 
@@ -46,3 +47,6 @@ The Flask application serves as the bridge between the complex backend model and
 ├── notebook/
 │   └── analysis.ipynb      # EDA and Model Training script
 └── requirements.txt        # Project Dependencies
+=======
+# German-Prediction-Credit-Risk-Web-App
+>>>>>>> ea5436767d389a677daab4385763a4653132a666
